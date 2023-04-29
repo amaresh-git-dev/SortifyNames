@@ -1,6 +1,6 @@
 #print("Enter your names without using any type of special!!!")
 
-name1 = input("Your Names Please: ")
+name1 = input("Your Names Please: ").split(',')
 
 #spacing = name1.split()
 
