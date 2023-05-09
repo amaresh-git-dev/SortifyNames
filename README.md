@@ -1,6 +1,6 @@
-# Automatic Name Sorting
+# SortifyNames
 
-Automatic Name Sorting is a Python-based script that allows you to automatically sort names in a list. With this script, you can quickly organize and order names in alphabetical or custom-defined ways, saving time and effort.
+SortifyNames is a Python-based script that allows you to automatically sort names in a list. With this script, you can quickly organize and order names in alphabetical or custom-defined ways, saving time and effort.
 
 ## Features
 
@@ -25,4 +25,4 @@ Automatic Name Sorting is a Python-based script that allows you to automatically
 2. Run the script using the following command:
 
 ```shell
-python name_sorter.py
+python SortifyNames.py
